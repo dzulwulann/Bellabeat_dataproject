@@ -32,8 +32,8 @@ The Colab notebook walks through:
 1. Aggregating and visualizing **daily average steps by day of week**  
 2. Analyzing **hourly activity patterns** (what hours see the most movement)  
 3. Exploring **sleep duration trends**, including how many users get less than 7 hours  
-4. Cross-analysis (e.g., steps vs sleep) to detect correlations, if applicable  
-5. Multiple visualizations: histograms, line plots, boxplots, bar charts, etc.
+
+
 
 ---
 
